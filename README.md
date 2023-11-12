@@ -10,4 +10,5 @@ Total 3,000 different 130 x 50 captcha images, with 4 maximum length for each im
 Image sourse: [HUSC Captcha](https://github.com/M1nhHoang/CRNN_CTC_Loss_Solve_Captcha/tree/HUSC/dataset)
 
 ## Result
-![Uploading image.png…]()
+![image](https://github.com/M1nhHoang/CRNN_CTC_Loss_Solve_Captcha/assets/106025710/b39f4983-d5a4-4b52-8195-17c2711cae76)
+
