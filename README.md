@@ -5,6 +5,6 @@
 This project demonstrates how we can build a deep neural network with **Connectionist Temporal Classification** loss function for reading captcha.
 <br>
 
-# [HUSC Solver](https://github.com/M1nhHoang/CRNN_CTC_Loss_Solve_Captcha/tree/HUSC)
+- # [HUSC Solver](https://github.com/M1nhHoang/CRNN_CTC_Loss_Solve_Captcha/tree/HUSC)
 
 <br>
