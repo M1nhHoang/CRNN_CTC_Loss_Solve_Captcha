@@ -5,3 +5,9 @@
 This project demonstrates how we can build a deep neural network with **Connectionist Temporal Classification** loss function for reading captcha.
 <br>
 
+## Dataset
+Total 3,000 different 130 x 50 captcha images, with 4 maximum length for each image.   
+Image sourse: [HUSC Captcha](https://github.com/M1nhHoang/CRNN_CTC_Loss_Solve_Captcha/tree/HUSC/dataset)
+
+## Result
+![Uploading image.png…]()
