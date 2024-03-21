@@ -12,6 +12,7 @@ This project demonstrates how we can build a deep neural network with **Connecti
 - # [K+ Captcha](https://github.com/M1nhHoang/CRNN_CTC_Loss_Solve_Captcha/tree/K_plus)
 
 <br>
-- # [Google Colab WorkSpace]([https://github.com/M1nhHoang/CRNN_CTC_Loss_Solve_Captcha/tree/K_plus](https://drive.google.com/drive/folders/1AZHrmqciOR4wocDqeK_xMvlE1E9Z94eC?usp=sharing)https://drive.google.com/drive/folders/1AZHrmqciOR4wocDqeK_xMvlE1E9Z94eC?usp=sharing])
+
+- # [Google Colab WorkSpace](https://github.com/M1nhHoang/CRNN_CTC_Loss_Solve_Captcha/tree/K_plus](https://drive.google.com/drive/folders/1AZHrmqciOR4wocDqeK_xMvlE1E9Z94eC?usp=sharing)https://drive.google.com/drive/folders/1AZHrmqciOR4wocDqeK_xMvlE1E9Z94eC?usp=sharing)
 
 <br>
